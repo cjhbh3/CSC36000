@@ -1,0 +1,6 @@
+*.zip
+*.data
+*.xlsx
+*.png
+settings.json
+.DS_Store
